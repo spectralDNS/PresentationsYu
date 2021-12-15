@@ -8,7 +8,7 @@ For the Fortran notes use the fortranenviron.yml environment
     python -m ipykernel install --user --name fortran
     jupyter notebook&
 
-The last line makes the fortran environment available from Jupyter. When Jupyter starts you should
+The line with ipykernel makes the fortran environment available from Jupyter. When Jupyter starts you should
 enable the fortran environment under `Kernel->Change kernel`
 
 For the shenfun presentations use the shenfunenvironment.yml instead of fortranenviron.yml
